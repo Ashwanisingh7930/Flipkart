@@ -1,4 +1,4 @@
-# Flipkart Clone MERN APP
+# Flipkart Clone
 [Ashwani singh's](https://github.com/ashwanisingh7930/) Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart.
 ## 🚀 LIVE
 (https://ashwanisingh7930.github.io/Flipkart/)
