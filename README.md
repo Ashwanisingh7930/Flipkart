@@ -5,7 +5,7 @@
 ##  🖥️ Tech Stack
 **Client :** &nbsp; HTMl, CSS
 ## Installation
-17
+
 Clone the project
 ```GitHub CLI
   gh repo clone Ashwanisingh7930/Flipkart
@@ -13,4 +13,6 @@ Clone the project
 ##  👋 Contact Me
 
 If any query please contact on 
+
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwanisingh7930)
